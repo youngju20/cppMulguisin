@@ -9,10 +9,12 @@ To build the project, simply run:
 
 ```bash
 make
+```
 
 ## Run MGS
 
 ```bash
 ./run_mgs linking_length input_file output_file_name
+```
 
 We also provide `run.sh` to run MGS more easily
